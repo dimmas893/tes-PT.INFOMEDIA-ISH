@@ -18,6 +18,6 @@ instalasi
 
 -php artisan key:generate
 
--php artisan migrate:fresh --seed
+-php artisan migrate:fresh --seed atau bisa import sql yang ada di dalam project dengan nama telkom.sql
 
 -php artisan serve
